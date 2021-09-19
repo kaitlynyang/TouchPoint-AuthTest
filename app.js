@@ -1,3 +1,5 @@
+// oauth2ClientId: 421296643689-0pnifou25n6p09arbtbeiu7182sr6524.apps.googleusercontent.com
+// oauth2ClientSecretSha256: 4dae4c7207d704c91515133f1fa4a64b20e83f287d8ed0d361ff11e5b816769a
 const express = require('express');
 const metadata = require('gcp-metadata');
 const {OAuth2Client} = require('google-auth-library');
